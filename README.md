@@ -12,7 +12,7 @@ hola, las dependencias son
 -require
 
 ---------------Base de datos---------------
-En el .env si lo miras es para hacer la conexion a la base de datos, esta la hice local para probar
+en database.js colocas los datos de la base de datos local
 
 --------------- API Drive ---------------
 las credenciales son de un correo que tengo xd
